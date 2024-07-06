@@ -1,0 +1,12 @@
+# Local .terraform directories
+.terraform/*
+
+# Ignore variables files
+*.auto.tfvars
+
+# Ignore override files
+*.tfoverride
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
